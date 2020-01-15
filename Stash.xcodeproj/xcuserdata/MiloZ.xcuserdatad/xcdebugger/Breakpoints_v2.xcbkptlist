@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DE11E60B-5441-42EF-B6DE-F44757BA0EBC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91BE5397-B260-4A7C-AA37-F51E94388BC9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Stash/Modules/SmartInvestment/View/SmartInvestmentViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "showAchievements(achievements:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA24E892-6F83-4035-B3F0-D07E886DBD36"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Stash/Modules/SmartInvestment/View/SmartInvestmentViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "SmartInvestmentViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "AA24E892-6F83-4035-B3F0-D07E886DBD36 - af7478b369143c4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stash.SmartInvestmentViewController.presenter.getter : Swift.Optional&lt;Stash.SmartInvestmentPresenterProtocol&gt;"
+                  moduleName = "Stash"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MiloZ/Desktop/stash-ios-challenge/Code/Stash/Stash/Modules/SmartInvestment/View/SmartInvestmentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "AA24E892-6F83-4035-B3F0-D07E886DBD36 - d66568d88d341079"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stash.SmartInvestmentViewController.presenter.setter : Swift.Optional&lt;Stash.SmartInvestmentPresenterProtocol&gt;"
+                  moduleName = "Stash"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MiloZ/Desktop/stash-ios-challenge/Code/Stash/Stash/Modules/SmartInvestment/View/SmartInvestmentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "153">
+               </Location>
+               <Location
+                  uuid = "AA24E892-6F83-4035-B3F0-D07E886DBD36 - b09da56ca287094a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stash.SmartInvestmentViewController.presenter.modify : Swift.Optional&lt;Stash.SmartInvestmentPresenterProtocol&gt;"
+                  moduleName = "Stash"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MiloZ/Desktop/stash-ios-challenge/Code/Stash/Stash/Modules/SmartInvestment/View/SmartInvestmentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "AA24E892-6F83-4035-B3F0-D07E886DBD36 - 177624e2fa041524"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stash.SmartInvestmentViewController.presenter.modify : Swift.Optional&lt;Stash.SmartInvestmentPresenterProtocol&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Stash"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MiloZ/Desktop/stash-ios-challenge/Code/Stash/Stash/Modules/SmartInvestment/View/SmartInvestmentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "AA24E892-6F83-4035-B3F0-D07E886DBD36 - ee2a508f3d1900dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stash.SmartInvestmentViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Stash.SmartInvestmentViewController"
+                  moduleName = "Stash"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MiloZ/Desktop/stash-ios-challenge/Code/Stash/Stash/Modules/SmartInvestment/View/SmartInvestmentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "AA24E892-6F83-4035-B3F0-D07E886DBD36 - caf241b473ab391"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stash.SmartInvestmentViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Stash.SmartInvestmentViewController&gt;"
+                  moduleName = "Stash"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MiloZ/Desktop/stash-ios-challenge/Code/Stash/Stash/Modules/SmartInvestment/View/SmartInvestmentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "202">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
